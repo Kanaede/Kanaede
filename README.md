@@ -13,4 +13,4 @@ Fav: Pancake and Runnning, don't ask about swim.
 
 Dislike: Jumpscare and Assignment.
 
-<p align="center">Just that? Yea, I never tell my secret to people.. oh yea! My Ambition is: Died as a fool who became a legend.</p>
+<p align="center">Just that? Yea, I never tell my secret to people..</p>
