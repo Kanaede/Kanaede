@@ -1,7 +1,7 @@
 <h1 align="center">KANAEDE</h1>
 <p align="center">A sharky, that too nosy and full of behavior</p>
 <p align="center">
-  Yea, she is someone that always thought he was a shark. She even thought that he had a tail and could feel strange things that made her full of behavior.
+  Yea, she is someone that always thought she was a shark. She even thought that she had a tail and could feel strange things that made her full of behavior.
   She also knew that she often pushed herself for other people, until she forgot to take care of herself and fell ill.
 </p>
 
