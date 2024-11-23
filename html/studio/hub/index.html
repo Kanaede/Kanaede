@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Omah Guna Studio</title>
 
-  <link rel="stylesheet" href="../../assets/css/index.css">
+  <link rel="stylesheet" href="../../../assets/css/index.css">
   <link rel="shortcut icon" href="../../../assets/img/studio/logo.png" type="image/x-icon">
   <script src="../../../assets/js/index.js"></script>
 
@@ -21,27 +21,33 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-          <div class="navbar-nav  ">
+          <div class="navbar-nav">
             <a class="nav-link active" aria-current="page" href="#">Home</a>
             <a class="nav-link" href="#">About</a>
             <a class="nav-link" href="#">Services</a>
             <a class="nav-link" href="#">Contact</a>
+          </div>
       </div>
     </nav>
   </header>
   
   <div class="container">
-    <div id="slideshow4169">
-      <div class="slider-warpper">
-        <div class="slide">
-          <div class="slide-1">
-            <h1>A part</h1>
-          </div>
-          <div class="slide-2">
-            <h2>Second Part</h2>
-          </div>
-        </div>
+    <div class="slideshow-container">
+      <div class="slide4169 fade">
+        <img src="../../../assets/img/error-img.png" alt="First Slide" class="img-fluid">
       </div>
+      <div class="slide4169 fade">
+        <img src="../../../assets/img/error-img.png" alt="First Slide" class="img-fluid">
+      </div>
+
+      <a class="slide-prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="slide-next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+    <br>
+
+    <div class="text-center">
+      <span class="slider-dot" onclick="currentSlide(1)"></span>
+      <span class="slider-dot" onclick="currentSlide(2)"></span>
     </div>
   </div>
 </body>
